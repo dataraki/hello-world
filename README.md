@@ -1,2 +1,2 @@
 # hello-world
-just a typical repository
+This is you're basic repository!
